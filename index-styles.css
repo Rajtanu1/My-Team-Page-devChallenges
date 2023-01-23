@@ -79,7 +79,7 @@ span {
 
 .footer__p {
   font-family: "Montserrat", sans-serif;
-  font-size: 14px;
+  font-size: 12px;
   font-weight: 700;
   color: #a9a9a9;
 }
@@ -118,6 +118,10 @@ span {
 
   .image-wrapper__member-name {
     font-size: 18px
+  }
+
+  .footer__p {
+    font-size: 14px;
   }
 }
 
