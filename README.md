@@ -53,7 +53,7 @@
 
 - [HTML5](https://html5.org/)
 - [CSS3](https://css3.com/)
-- [Javascript](https://javascript.com/)
+
 
 ## Features
 
